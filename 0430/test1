@@ -1,0 +1,4 @@
+date
+who
+echo “Let's see who's logged into the system:”
+who
